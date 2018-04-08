@@ -1,0 +1,17 @@
+void fillArrayWhile10(int *mas, int length);
+void printArray(int *mas, int length);
+void SummaOtrizElements(int *mas, int length);
+void printOnlyPositiv(int *mas, int length);
+void printOnlyNegativ(int *mas, int length);
+void fillArray(int *mas, int length);
+void printArrayBiggerThan10(int *mas, int length);
+void SearchSortToBigger(int *mas, int length);
+void fillArrayWhileNegativ(int *mas, int length);
+void printArrayOt3d07(int *mas, int length);
+void fillPrintArrayNOT5(int *mas, int length);
+void SearchSortToLower(int *mas, int length);
+void fillArrayWhile33(int *mas, int length);
+void MaxElement(int *mas, int length);
+void fillArrayLowerThan12(int *mas, int length);
+void SwitchMaxANDmin(int *mas, int length);
+void printArray2To13(int *mas, int length);
